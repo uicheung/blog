@@ -4,7 +4,7 @@
 
 ```bash
 # 克隆本仓库
-$ https://gitee.com/greasen/vitepress-master.git
+$ git clone https://gitee.com/greasen/vitepress-master.git
 
 # 或者使用 yarn
 $ yarn install
