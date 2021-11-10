@@ -4,13 +4,13 @@
  */
 module.exports = {
   base: '/',
-  title: 'qif-Admin',
+  title: 'hema-Admin',
   lang: 'zh-CN',
   description: '一个开箱即用的前端框架',
   head: createHead(),
   themeConfig: {
-    repo: 'qif/admin',
-    docsRepo: 'qif/admin-doc',
+    repo: 'hema/admin',
+    docsRepo: 'hema/admin-doc',
     logo: '/logo.png',
     docsBranch: 'main',
     editLinks: true,
