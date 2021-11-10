@@ -15,7 +15,7 @@
 
 ```bash
 # 拉取代码
-暂无地址
+git clone https://gitee.com/greasen/vitepress-master.git
 
 # 安装依赖
 yarn
