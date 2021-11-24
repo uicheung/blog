@@ -3,10 +3,10 @@
  * @type {import('vitepress').UserConfig}
  */
 module.exports = {
-  base: '/',
-  title: 'hema-Admin',
+  base: '/blob/',
+  title: '跟太阳说早安',
   lang: 'zh-CN',
-  description: '一个开箱即用的前端框架',
+  description: '兴趣使然的博客',
   head: createHead(),
   themeConfig: {
     repo: 'hema/admin',
