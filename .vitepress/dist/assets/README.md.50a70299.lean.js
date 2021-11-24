@@ -1,1 +1,0 @@
-import{o as a,c as n,a as e}from"./app.74014ce6.js";const s='{"title":"hema-admin-doc","description":"","frontmatter":{},"headers":[{"level":2,"title":"如何本地开发","slug":"如何本地开发"}],"relativePath":"README.md","lastUpdated":1637715792714}',t={},o=e('',3);t.render=function(e,s,t,c,r,d){return a(),n("div",null,[o])};export default t;export{s as __pageData};
