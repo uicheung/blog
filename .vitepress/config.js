@@ -3,7 +3,7 @@
  * @type {import('vitepress').UserConfig}
  */
 module.exports = {
-  base: '/blob/',
+  base: '/',
   title: '跟太阳说早安',
   lang: 'zh-CN',
   description: '兴趣使然的博客',
