@@ -1,0 +1,1 @@
+import{o as x,c as i,a as l}from"./app.a6e571a7.js";const a='{"title":"万能日报模板：","description":"","frontmatter":{},"relativePath":"record/expross.md","lastUpdated":1637829487074}',e={},r=l('',2);e.render=function(l,a,e,t,o,d){return x(),i("div",null,[r])};export default e;export{a as __pageData};
