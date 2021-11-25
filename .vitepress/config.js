@@ -54,17 +54,47 @@ function createHead () {
 function createNav () {
   return [
     {
-      text: '指南',
-      link: '/guide/',
+      text: '📗 笔记',
+      link: '/record/',
       items: [
         {
-          text: '指南',
-          link: '/guide/introduction',
+          text: '🦄 Web前端',
+          link: '/record/web',
+        },
+        {
+          text: '🐢 NodeJS',
+          link: '/record/node',
+        },
+        {
+          text: '🐘 数据库',
+          link: '/record/db',
+        },
+        {
+          text: '🐧 Linux',
+          link: '/record/linux',
+        },
+        {
+          text: '🚀 探索',
+          link: '/record/expross',
+        }
+      ],
+    },
+    {
+      text: '💡 作品',
+      link: '/works/',
+      items: [
+        {
+          text: '介绍',
+          link: '/components/introduction',
+        },
+        {
+          text: '全局组件',
+          link: '/components/glob/Icon',
         },
       ],
     },
     {
-      text: '组件',
+      text: '🧲 收藏集',
       link: '/components/',
       items: [
         {
@@ -74,6 +104,24 @@ function createNav () {
         {
           text: '全局组件',
           link: '/components/glob/Icon',
+        },
+      ],
+    },
+    {
+      text: '📆 随笔',
+      link: '/essay/',
+      items: [
+        {
+          text: '介绍',
+          link: '/essay/introduction',
+        },
+        {
+          text: '随一笔',
+          link: '/essay/content',
+        },
+        {
+          text: '随便拍',
+          link: '/essay/photo',
         },
       ],
     },
