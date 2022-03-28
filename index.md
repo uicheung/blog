@@ -1,11 +1,11 @@
 ---
 home: true
 heroImage: /logo.png
-actionText: 快速开始 →
+actionText: 随便看看 →
 actionLink: /guide/introduction
 
-altActionText: 指南
-altActionLink: /guide/introduction
+altActionText: 了解我
+altActionLink: /essay/photo.html
 
 features:
   - title: 🦄 Web前端
