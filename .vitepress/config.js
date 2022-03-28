@@ -1,9 +1,16 @@
 // @ts-check
 /**
  * @type {import('vitepress').UserConfig}
+ * 
+ * 
  */
+
+ const argv = require('minimist')(process.argv.slice(2))
+ const build = argv.build || false
+ const baseBuild = build ? '/blog/' : '/'
+
 module.exports = {
-  base: '/blog/',
+  base: baseBuild,
   title: '跟太阳说早安',
   lang: 'zh-CN',
   description: '兴趣使然的博客',
