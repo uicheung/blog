@@ -6,7 +6,7 @@
   "license": "MIT",
   "scripts": {
     "dev": "vitepress dev --temp .temp --port 3200",
-    "build": "vitepress build && mv ./.vitepress/dist ./dist",
+    "build": "vitepress build && mv ./.vitepress/dist ./docs",
     "serve": "vitepress serve"
   },
   "devDependencies": {
