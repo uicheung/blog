@@ -1,0 +1,1 @@
+import{o as e,c as a,a as t}from"./app.a6e571a7.js";const r='{"title":"大苏打","description":"","frontmatter":{},"headers":[{"level":2,"title":"","slug":""}],"relativePath":"essay/photo.md","lastUpdated":1638357203464}',i={},h=t('',7);i.render=function(t,r,i,l,o,p){return e(),a("div",null,[h])};export default i;export{r as __pageData};
