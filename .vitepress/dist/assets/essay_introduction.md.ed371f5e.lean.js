@@ -1,1 +1,0 @@
-import{o as e,c as n,a}from"./app.1f10cff0.js";const r='{"title":"介绍","description":"","frontmatter":{},"headers":[{"level":2,"title":"介绍","slug":"介绍"},{"level":2,"title":"自我介绍","slug":"自我介绍"}],"relativePath":"essay/introduction.md","lastUpdated":1648446525572}',t={},d=a('',7);t.render=function(a,r,t,l,i,s){return e(),n("div",null,[d])};export default t;export{r as __pageData};
